@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <style>
+        .primary { fill: var(--primary); }
+        .secondary { fill: var(--secondary); }
+        .accent { fill: var(--accent); }
+    </style>
+    <path class="accent" d="M250 50l200 350H50z"/>
+    <path class="primary" d="M250 100l150 262.5H100z"/>
+    <path class="secondary" d="M250 150l100 175H150z"/>
+    <circle class="primary" cx="250" cy="250" r="50"/>
+</svg> 
