@@ -18,7 +18,7 @@ A spiritual guidance application that uses AI to provide personalized religious 
 - MySQL 5.7 or higher
 - Node.js 16 or higher
 - Composer
-- OpenAI API key
+- OpenAI/DeekSeek API key
 
 ## Installation
 
@@ -58,9 +58,11 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-7. Add your OpenAI API key to `.env`:
+7. Add your OpenAI/DeepSeek API key to `.env`:
 ```
 OPENAI_API_KEY=your_openai_api_key
+or
+DEEPSEEK_API_KEY=your_deepseek_api_key
 ```
 
 8. Run migrations:
