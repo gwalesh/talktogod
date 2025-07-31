@@ -6,7 +6,7 @@ A spiritual guidance application that uses AI to provide personalized religious 
 
 - User authentication and profiles
 - Personalized spiritual guidance based on religious beliefs
-- Integration with ChatGPT for intelligent responses
+- Integration with DeepSeek -v3 for intelligent responses
 - Free tier with daily message limits
 - Premium subscription for unlimited access
 - Chat history tracking
